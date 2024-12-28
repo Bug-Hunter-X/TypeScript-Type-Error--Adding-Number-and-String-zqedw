@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript type error that occurs when performing an operation on incompatible types. The `bug.ts` file shows the error, while `bugSolution.ts` provides a solution using type guards or other type-safe methods.
